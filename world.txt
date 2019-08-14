@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello World from the Master Branch
+=======
+Hello World from the Master Branch
+
+Hello from the new-feature branch
+>>>>>>> new-feature
